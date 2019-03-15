@@ -1,6 +1,6 @@
-# dafni-starter
+# dafni-starter (schluppeck version)
 
-A minimal starter repo for data analysis for neuroimaging class (c84dan) at the University of Nottingham.
+Starting to replace this readme file with my own material...
 
 ## Exercises
 
